@@ -109,11 +109,11 @@ class Profile extends React.Component {
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
                           <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="description">project</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">+5</span>
+                          <span className="description">years of experince</span>
                         </div>
                         <div>
                           <span className="heading">89</span>
@@ -144,11 +144,7 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                         I'm a civil engineer and now im learn to be a software developer 
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
